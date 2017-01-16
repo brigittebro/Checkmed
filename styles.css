@@ -1,0 +1,26 @@
+:root {
+  font-family: 'Oxygen', sans-serif;
+  color: #556780;
+  font-size: 1.25em;
+}
+
+body {
+  background: -webkit-linear-gradient(180deg, #c9e5ff, #ccffcc);
+}
+
+h1 {
+  font-family: 'Fredoka One', cursive;
+}
+
+
+#cta-content {
+  width: 500px;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  margin-top: -250px;
+  margin-left: -250px;
+  align-content: center;
+  text-align: center;
+}
+
